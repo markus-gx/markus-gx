@@ -1,5 +1,6 @@
 # 💫 About Me:
-- Building Web & App Experience you will love 💚<br>- Full Stack Developer & Tech Enthusiast 👨‍💻
+- Building Web & App Experience you will love 💚
+- Full Stack Developer & Tech Enthusiast 👨‍💻
 
 
 ## 🌐 Socials:
