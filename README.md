@@ -1,5 +1,6 @@
 # 💫 About Me:
-- Building Web & App Experience you will love 💚
+- Building Web & App Experience you will love 🤍
+- [![Storyblok]](https://www.storyblok.com/) Ambassador 💚
 - Full Stack Developer & Tech Enthusiast 👨‍💻
 
 
