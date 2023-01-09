@@ -1,6 +1,7 @@
 # 💫 About Me:
 - Building Web & App Experience you will love 🤍
-- [![Storyblok]](https://www.storyblok.com/) Ambassador 💚
+- CEO & Co Founder [Regiolix Solutions](https://www.regiolix-solutions.at/en/)
+- [Storyblok](https://www.storyblok.com/) Ambassador 💚
 - Full Stack Developer & Tech Enthusiast 👨‍💻
 
 
