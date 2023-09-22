@@ -1,6 +1,6 @@
 # 💫 About Me:
 - Building Web & App Experience you will love 🤍
-- CEO & Co Founder [Regiolix Solutions](https://www.regiolix-solutions.at/en/)
+- Head of Technical Communications & Co Founder [Werbeberg](https://www.werbeberg.at/)
 - [Storyblok](https://www.storyblok.com/) Ambassador 💚
 - Full Stack Developer & Tech Enthusiast 👨‍💻
 
